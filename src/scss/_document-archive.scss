@@ -1,0 +1,51 @@
+.doc-archive {
+	@media only screen and (min-width: 768px) {
+		display: flex;
+		flex-flow: row nowrap;
+	}
+	.doc-sidebar {
+		@media only screen and (min-width: 768px) {
+			width: 25%;
+		}
+	}
+	.docs {
+		@media only screen and (min-width: 768px) {
+			display: flex;
+			flex-flow: row nowrap;
+			width: 75%;
+		}
+		.doc {
+			display: flex;
+			flex-flow: column nowrap;
+			justify-content: center;
+			text-align: center;
+			min-height: 200px;
+			@media only screen and (min-width: 768px) {
+				width: 32%;
+				margin-right: 2%;
+				&:nth-of-type(3n) {
+					margin-right: 0;
+				}
+			}
+			a {
+				background: #fff;
+				border-radius: 4px;
+				box-shadow: 0 2px 10px rgba(0,0,0,.15);
+				display: flex;
+				flex-flow: column nowrap;
+				width: 100%;
+				height: 100%;
+				justify-content: center;
+				transition: all 0.5s ease;
+				min-height: 200px;
+				&:hover {
+					background: $brand;
+					color: #fff;
+				}
+			}
+		}
+	}
+}
+.fancybox-container {
+	z-index: 999999;
+}

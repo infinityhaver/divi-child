@@ -1,0 +1,78 @@
+
+// Fonts
+
+// Colors
+$brand-opacity:  rgba(46,163,242,.8);
+$brand:		     rgba(46,163,242,1);
+$red: 			 #C8102E;
+$dark-gray: 	 #444444;
+$light-gray: 	 #F8F8F8;
+$h-color: 		 #262525;
+$p-color: 		 #7D7D7D;
+$footer-bg: 	 #2B2B2B;
+$theme-colors: (
+    "primary": $brand,
+);
+$container-max-widths: (
+	sm: 767px,
+	md: 991px,
+	lg: 1139px,
+	xl: 80%
+);
+
+// Fonts
+$headings-font-weight:   700;
+$font-size-base:         1.125rem;
+$line-height-base:       1.61111;
+$h1-font-size:           42px;
+$h2-font-size:           36px;
+$h3-font-size:           28px;
+$h4-font-size:           26px;
+$h5-font-size:           24px;
+$h6-font-size:           22px;
+
+// Container width
+$inner-width: 1252px;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: $h-color;
+}
+h1 {
+
+}
+h2 {
+
+}
+h3 {
+
+}
+h4 {
+
+}
+h5 {
+
+}
+h6 {
+
+}
+html,
+body,
+p,
+ul,
+ol,
+li,
+span, {
+
+}
+a {
+
+}
+strong,
+b {
+
+}

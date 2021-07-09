@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4 Copy</title>
+    <g id="Blocks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tab-Content-Selected" transform="translate(-493.000000, -313.000000)">
+            <g id="Group-4-Copy" transform="translate(518.000000, 338.000000) rotate(-90.000000) translate(-518.000000, -338.000000) translate(493.000000, 313.000000)">
+                <g id="Group-6-Copy-3" stroke="#FFFFFF" stroke-width="2">
+                    <circle id="Oval" cx="25" cy="25" r="24"></circle>
+                </g>
+                <path d="M18.7893474,23.8419706 L25.1352314,30.6109135 C25.3240965,30.8123696 25.6405144,30.8225767 25.8419706,30.6337115 C25.849813,30.6263592 25.8574163,30.6187559 25.8647686,30.6109135 L32.2106526,23.8419706 C32.3995177,23.6405144 32.3893107,23.3240965 32.1878546,23.1352314 C32.0951815,23.0483504 31.9729139,23 31.845884,23 L19.154116,23 C18.8779736,23 18.654116,23.2238576 18.654116,23.5 C18.654116,23.6270299 18.7024664,23.7492975 18.7893474,23.8419706 Z" id="Path-2" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

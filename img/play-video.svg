@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <defs>
+        <filter x="-32.9%" y="-32.9%" width="165.7%" height="165.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Blocks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="50-50-Image-Video-Block-Text" transform="translate(-308.000000, -268.000000)">
+            <g id="Group-7" transform="translate(310.000000, 270.000000)">
+                <g id="Group-4" filter="url(#filter-1)" transform="translate(50.000000, 50.000000) rotate(-90.000000) translate(-50.000000, -50.000000) translate(15.000000, 15.000000)">
+                    <g id="Group-6-Copy-3" stroke="#FFFFFF" stroke-width="2">
+                        <circle id="Oval" cx="35" cy="35" r="34"></circle>
+                    </g>
+                    <path d="M25.9709965,31.3014236 L35.1265377,44.3807681 C35.3482378,44.6974826 35.7847091,44.7745069 36.1014236,44.5528068 C36.1683726,44.5059425 36.2265981,44.447717 36.2734623,44.3807681 L45.4290035,31.3014236 C45.6507036,30.9847091 45.5736793,30.5482378 45.2569647,30.3265377 C45.1393063,30.2441767 44.9991616,30.2 44.8555411,30.2 L26.5444589,30.2 C26.1578596,30.2 25.8444589,30.5134007 25.8444589,30.9 C25.8444589,31.0436205 25.8886356,31.1837652 25.9709965,31.3014236 Z" id="Path-2" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
